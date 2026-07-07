@@ -1,4 +1,7 @@
 # Automotive-Price-Prediction-Market-Intelligence-System
+### Dataset
+European Cars Dataset from Kaggle:
+https://www.kaggle.com/datasets/eswarpanchakarla/european-cars-dataset
 
 ## Overview
 Built an end-to-end machine learning pipeline to predict European car prices using regression models.
@@ -6,15 +9,11 @@ Built an end-to-end machine learning pipeline to predict European car prices usi
 ## Technologies
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
-## Dataset
-European Cars Dataset from Kaggle:
-https://www.kaggle.com/datasets/eswarpanchakarla/european-cars-dataset
-
 ## Workflow
-- Importing libraries and loading the dataset
+- Data loading
 - Data cleaning and preprocessing:
        duplicate and missing value checks,
-       outlier handling using IQR (Interquartile Range method))
+       outlier handling using IQR (Interquartile Range) method
 - Feature engineering:
        domain-based feature creation,
        One-hot encoding
