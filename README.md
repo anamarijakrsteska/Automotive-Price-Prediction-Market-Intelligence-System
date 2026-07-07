@@ -8,7 +8,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
 ## Dataset
 European Cars Dataset from Kaggle:
-(https://www.kaggle.com/datasets/eswarpanchakarla/european-cars-dataset)
+https://www.kaggle.com/datasets/eswarpanchakarla/european-cars-dataset
 
 ## Workflow
 - Importing libraries and loading the dataset
