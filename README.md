@@ -1,10 +1,24 @@
 # Automotive-Price-Prediction-Market-Intelligence-System
-### Dataset
+## Dataset
 European Cars Dataset from Kaggle:
 https://www.kaggle.com/datasets/eswarpanchakarla/european-cars-dataset
 
 ## Overview
 Built an end-to-end machine learning pipeline to predict European car prices using regression models.
+
+## Project Structure
+Automotive-Price-Prediction-Market-Intelligence-System
+│
+├── images/
+│    ├── model_comparison_mse.png
+│    ├── model_comparison_r2.png
+│    ├── model_comparison_table.png
+│    ├── price_distribution.png
+│    └── xgb_feature_importance.png
+├── European Automotive Intelligence System.ipynb
+├── European_cars_dataset.xlsx
+├── README.md
+└── requirements.txt
 
 ## Technologies
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
@@ -34,6 +48,13 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
 ## Results
 XGBoost achieved the best performance among the tested models.
+![Model Comparison](images/model_comparison_table.png)
+
+### XGBoost Feature Importance
+![Feature Importance](images/xgb_feature_importance.png)
+
+### Price Distribution
+![Price Distribution](images/price_distribution.png)
 
 ## Key Insights
 Feature analysis showed that vehicle performance, efficiency, and safety-related features influence car pricing.
