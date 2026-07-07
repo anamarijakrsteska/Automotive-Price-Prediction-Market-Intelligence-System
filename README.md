@@ -12,11 +12,11 @@ European Cars Dataset from Kaggle:
 
 ## Workflow
 - Importing libraries and loading the dataset
-- Data cleaning and preprocessing
-      -Duplicate and missing value checks
+- Data cleaning and preprocessing:
+      -Duplicate and missing value checks,
       -Outlier handling using IQR (Interquartile Range method))
-- Feature engineering
-      -Domain-based feature creation
+- Feature engineering:
+      -Domain-based feature creation,
       -One-hot encoding
 - Model building and training
 - Model comparison
