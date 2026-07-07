@@ -52,6 +52,8 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
 ## Results
 XGBoost achieved the best performance among the tested models.
+
+### Model Comparison
 ![Model Comparison](images/model_comparison_table.png)
 
 ### XGBoost Feature Importance
