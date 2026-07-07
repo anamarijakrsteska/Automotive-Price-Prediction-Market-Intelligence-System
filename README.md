@@ -16,7 +16,7 @@ Automotive-Price-Prediction-Market-Intelligence-System
 │    ├── model_comparison_table.png
 │    ├── price_distribution.png
 │    └── xgb_feature_importance.png
-├── European Automotive Intelligence System.ipynb
+├── European-Automotive-Intelligence-System.ipynb
 ├── European_cars_dataset.xlsx
 ├── README.md
 └── requirements.txt
@@ -48,6 +48,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
 ## Evaluation Metrics
 - Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
 - R² Score
 
 ## Results
